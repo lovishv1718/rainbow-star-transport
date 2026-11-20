@@ -1,0 +1,38 @@
+PHOTO CREDITS — all photos from Unsplash (https://unsplash.com/license)
+Free for commercial use, no permission or attribution required. Not AI-generated.
+
+assets/img/photos/desert-haul.webp  ->  https://unsplash.com/photos/0-r7LSNq1b8
+assets/img/photos/winter-haul.webp  ->  https://unsplash.com/photos/44eZ3uxC0VQ
+assets/img/photos/dusk-semi.webp  ->  https://unsplash.com/photos/ki19VJAGh6w
+assets/img/photos/blue-rig-dawn.webp  ->  https://unsplash.com/photos/mVqTumQH-c0
+assets/img/photos/night-express.webp  ->  https://unsplash.com/photos/0pKvtTMA8xg
+assets/img/photos/highway-convoy.webp  ->  https://unsplash.com/photos/P0bVatS8Jdw
+assets/img/photos/flatbed-lumber.webp  ->  https://unsplash.com/photos/99HLgU4IHLY
+assets/img/photos/reefer-unit.webp  ->  https://unsplash.com/photos/-ecLbpIOc7c
+assets/img/photos/trailer-sunset.webp  ->  https://unsplash.com/photos/EmEQ6kK_5P0
+assets/img/photos/dock-doors.webp  ->  https://unsplash.com/photos/3HM8UiqkfX0
+assets/img/photos/crossdock.webp  ->  https://unsplash.com/photos/WZrmEaufAyQ
+assets/img/photos/dock-bays.webp  ->  https://unsplash.com/photos/nT4k2JDtwTQ
+assets/img/photos/warehouse-aisle.webp  ->  https://unsplash.com/photos/-aCrA9FmT8Y
+assets/img/photos/warehouse-racking.webp  ->  https://unsplash.com/photos/GK8x_XCcDZg
+assets/img/photos/dc-team.webp  ->  https://unsplash.com/photos/c_4eaGRDSVU
+assets/img/photos/warehouse-floor.webp  ->  https://unsplash.com/photos/68E-dFpOF0g
+assets/img/photos/reach-truck.webp  ->  https://unsplash.com/photos/82ZiY5pzl1c
+assets/img/photos/forklift-racks.webp  ->  https://unsplash.com/photos/F2C_mSrb6iM
+assets/img/photos/team-tablet.webp  ->  https://unsplash.com/photos/ZlOlRnWk8zU
+assets/img/photos/safety-check.webp  ->  https://unsplash.com/photos/YhoXp0AdEWc
+assets/img/photos/driver-cab.webp  ->  https://unsplash.com/photos/lrjKKoW42MA
+assets/img/photos/mirror-view.webp  ->  https://unsplash.com/photos/ucuOscdCaO4
+assets/img/photos/fleet-aerial.webp  ->  https://unsplash.com/photos/GOD2mDNujuU
+assets/img/photos/trailers-aerial.webp  ->  https://unsplash.com/photos/kGoPcmpPT7c
+assets/img/photos/dusk-rig.webp  ->  https://unsplash.com/photos/Zp5uth4v7yY
+assets/img/photos/highway-sunset.webp  ->  https://unsplash.com/photos/qms-kprAgJM
+assets/img/photos/loading-forklift.webp  ->  https://unsplash.com/photos/GAdkOpqbTfo
+assets/img/photos/trailer-loading.webp  ->  https://unsplash.com/photos/dI-aXC7DWpQ
+assets/img/photos/dock-trailers.webp  ->  https://unsplash.com/photos/fP4OG67TVes
+assets/img/photos/express-motion.webp  ->  https://unsplash.com/photos/ZhNYKwjRMh4
+assets/img/photos/pallet-aisle.webp  ->  https://unsplash.com/photos/p0VP_TOAd5E
+assets/img/photos/distribution.webp  ->  https://unsplash.com/photos/sczNLg6rrhQ
+assets/img/photos/empty-warehouse.webp  ->  https://unsplash.com/photos/NADTQRbS0s4
+assets/img/photos/warehouse-pick.webp  ->  https://unsplash.com/photos/Q8JTZqnNB-o
+assets/img/photos/interchange.webp  ->  https://unsplash.com/photos/8bs-Kz8ACdM
